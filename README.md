@@ -71,6 +71,4 @@ See [`LICENSE`](LICENSE) for full details.
 
 > 💡 **\*Tip**: You can zoom and pan the map to explore population density at a granular level.\*
 
----
 
-Let me know if you'd like a version tailored for GitHub, Jupyter Notebook, or a documentation site!
